@@ -11,7 +11,7 @@ The **TDMs (Time-Doppler Maps)** data is hosted on ModelScope:
 
 - **ModelScope**: [dugujiujian/tdms-data](https://www.modelscope.cn/datasets/dugujiujian/tdms-data)
 
-> **Note**: The dataset is currently set to **private** while the associated paper is under review. If you would like to access the TDMs data, please contact the author or open an issue in this repository.
+> **Note**: The dataset is currently set to **private** and will be made publicly available once the associated paper is accepted. Stay tuned.
 
 The **raw ADC data** is not yet uploaded due to its large disk footprint. It will be made available later.
 
@@ -27,7 +27,7 @@ The TDMs-data repository contains the time-doppler map data of MM-10-Action:
 | `data_ex*_time_doppler/` | Time-doppler map images (PNG) |
 
 ### Download
-After you are granted access, download via the ModelScope website or SDK:
+Once the dataset is made public, download via the ModelScope website or SDK:
 
 ```bash
 # via modelscope SDK
