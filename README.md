@@ -4,12 +4,16 @@ MM-10-Action is an open source dataset for human activity recognition(HAR) based
 The dataset will made available when our paper is accepted. Look forward to your attention.--2025.03.06
 
 ## News
-**[2026-10-02]** The time-doppler map data (TDMs) of MM-10-Action is now publicly available on ModelScope!
+**[2026-10-02]** The time-doppler map data (TDMs) of MM-10-Action has been uploaded to ModelScope.
 
 ## Dataset Availability
-The **TDMs (Time-Doppler Maps)** data is now available on ModelScope:
+The **TDMs (Time-Doppler Maps)** data is hosted on ModelScope:
 
 - **ModelScope**: [dugujiujian/tdms-data](https://www.modelscope.cn/datasets/dugujiujian/tdms-data)
+
+> **Note**: The dataset is currently set to **private** while the associated paper is under review. If you would like to access the TDMs data, please contact the author or open an issue in this repository.
+
+The **raw ADC data** is not yet uploaded due to its large disk footprint. It will be made available later.
 
 ### TDMs-data Contents
 The TDMs-data repository contains the time-doppler map data of MM-10-Action:
@@ -23,7 +27,7 @@ The TDMs-data repository contains the time-doppler map data of MM-10-Action:
 | `data_ex*_time_doppler/` | Time-doppler map images (PNG) |
 
 ### Download
-Download via ModelScope website or SDK:
+After you are granted access, download via the ModelScope website or SDK:
 
 ```bash
 # via modelscope SDK
